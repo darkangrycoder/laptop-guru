@@ -44,3 +44,7 @@ I am using transformer blurr package to train this model.
 ```bash
 https://youtu.be/A23aHxtiApw
 ```
+## Huggingface Deployment
+```
+https://huggingface.co/spaces/tdnathmlenthusiast/laptop_guru
+```
