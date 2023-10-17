@@ -41,4 +41,6 @@ I am using transformer blurr package to train this model.
 <img src="https://github.com/darkangrycoder/laptop-guru/blob/main/Annotation%202023-10-17%20133222.png" alt="Stage_0_Training_Image" width="200"/>
 
 ## Understand How to use
-![Laptop Guru Tutorial](https://youtu.be/A23aHxtiApw)
+```bash
+https://youtu.be/A23aHxtiApw
+```
