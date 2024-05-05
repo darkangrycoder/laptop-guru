@@ -1,4 +1,4 @@
-#AN IMPORTANT NOTICE
+# AN IMPORTANT NOTICE
 
 Due to a major update in Huggingface, the ChatBot option isn't functioning. To understand the entire thing and how it works, here is the tutorial that will help you to get idea about this amazing project.
 
