@@ -1,9 +1,23 @@
+#AN IMPORTANT NOTICE
+
+Due to a major update in Huggingface, the ChatBot option isn't functioning. To understand the entire thing and how it works, here is the tutorial that will help you to get idea about this amazing project.
+
+```bash
+https://youtu.be/A23aHxtiApw?si=e3qVegqD30mOro4w
+```
+
+The Good thing is another version of this ML project is still online, you can try here:
+
+```bash
+https://youtu.be/A23aHxtiApw?si=e3qVegqD30mOro4w](https://www.startech.com.bd/tool/finder
+```
+
 # laptop-guru
-This ML Model will help you to choose desired laptop based on your given information. 
+This ML Model will help you to choose the desired laptop based on your given information. 
 
 # Problem Statement
 
-In student life or professional life, almost 95% people struggle to buy the best laptop according to their demand & purposes. Some of them ended up buying under powered laptop based on their work & activites. Some of them are ended up buying overpowered laptop. It's kind of thing that, we must confused to buy the best laptop among the thousands laptops in market. To solve this issue, I introduced to you the Laptop Guru ML Recommendation System. Just put your desired specifications & working purposes & it will suggest the best laptop for you. 
+In student life or professional life, almost 95% of people struggle to buy the best laptop according to their demands & purposes. Some of them ended up buying underpowered laptops based on their work & activities. Some of them ended up buying overpowered laptops. It's the kind of thing that, we must confuse to buy the best laptop among the thousands of laptops in the market. To solve this issue, I introduced to you the Laptop Guru ML Recommendation System. Just put your desired specifications & working purposes & it will suggest the best laptop for you. 
 
 # A-Z Process of Building Laptop Guru
 
@@ -13,9 +27,9 @@ In this case, **distilroberta-base ** model has been chosen for this ML project.
 ```bash
 https://huggingface.co/distilroberta-base
 ```
-## Sites that U have scrapped
+## Sites that I have scrapped to collect data
 
-I have choosen this site that contain 2k laptops dataset for this ML projects:
+I have choosen this site that contain 4k laptops dataset for this ML projects:
 ```bash
 https://www.startech.com.bd/laptop-notebook/laptop
 ```
