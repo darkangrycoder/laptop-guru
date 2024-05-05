@@ -9,7 +9,7 @@ https://youtu.be/A23aHxtiApw?si=e3qVegqD30mOro4w
 The Good thing is another version of this ML project is still online, you can try here:
 
 ```bash
-https://youtu.be/A23aHxtiApw?si=e3qVegqD30mOro4w](https://www.startech.com.bd/tool/finder
+https://www.startech.com.bd/tool/finder
 ```
 
 # laptop-guru
